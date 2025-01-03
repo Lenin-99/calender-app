@@ -1,7 +1,9 @@
 **Overview**
+
 The Calendar Communication Tracker is a React-based web application designed to streamline professional interactions with organizations. It allows users to log, track, and manage communications, ensuring timely follow-ups and efficient engagement.
 
 **Features**
+
 _Admin Module:_
 Manage company data (name, location, LinkedIn, emails, etc.).
 Define communication methods and their sequences.
@@ -18,6 +20,7 @@ Exportable reports (optional).
 Responsive Design: Usable on desktops, tablets, and smartphones.
 
 **Setup Instructions**
+
 Pre-requisites
 Node.js (>=14.x)
 npm or yarn
