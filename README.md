@@ -47,11 +47,24 @@ Copy code
 npm start
 
 ==>Deployment
+
 ==>Deploying on Vercel
+
+
 ==>Sign up or log in to Vercel.
+
+
 ==>Create a new project and connect your GitHub repository.
+
+
 ==>Vercel will automatically detect the React app and deploy it.
+
+
 ==>Deploying on Netlify
+
+
 ==>Sign up or log in to Netlify.
+
+
 ==>Drag and drop the build/ folder onto Netlify's dashboard.
 
